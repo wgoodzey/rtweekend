@@ -10,7 +10,7 @@ This is a raytracer based on the [Ray Tracing in a Weekend](https://raytracing.g
 [x] 6  Surface Normals and Multiple Objects  
 [x] 7  Moving Camera Code Into Its Own Class  
 [x] 8  Antialiasing  
-[ ] 9  Diffuse Materials  
+[x] 9  Diffuse Materials  
 [ ] 10  Metal  
 [ ] 11  Dielectrics  
 [ ] 12  Positionable Camera  
