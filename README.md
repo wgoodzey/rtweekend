@@ -11,7 +11,7 @@ This is a raytracer based on the [Ray Tracing in a Weekend](https://raytracing.g
 [x] 7  Moving Camera Code Into Its Own Class  
 [x] 8  Antialiasing  
 [x] 9  Diffuse Materials  
-[ ] 10  Metal  
+[x] 10  Metal  
 [ ] 11  Dielectrics  
 [ ] 12  Positionable Camera  
 [ ] 13  Defocus Blur  
