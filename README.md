@@ -12,9 +12,9 @@ This is a raytracer based on the [Ray Tracing in a Weekend](https://raytracing.g
 [x] 8  Antialiasing  
 [x] 9  Diffuse Materials  
 [x] 10  Metal  
-[ ] 11  Dielectrics  
-[ ] 12  Positionable Camera  
-[ ] 13  Defocus Blur  
+[x] 11  Dielectrics  
+[x] 12  Positionable Camera  
+[x] 13  Defocus Blur  
 [ ] 14  Where Next?  
 
 ## Usage
